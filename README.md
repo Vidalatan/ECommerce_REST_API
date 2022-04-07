@@ -124,23 +124,22 @@ encouraged to assist in any way applicable to your skills!
 
 Demonstration of starting the server and some quick requests for Categories:
 
-[]()
+https://user-images.githubusercontent.com/59946423/162133442-0843a5a3-994c-4f68-a542-50719b8531d4.mp4
 
 
 Demonstration of all Category requests:
 
-[]()
+https://user-images.githubusercontent.com/59946423/162133483-331336e3-e900-4126-8b6d-9a9b3a958480.mp4
 
 
 Demonstration of all Product requests:
 
-[]()
+https://user-images.githubusercontent.com/59946423/162133509-f5445268-c70d-4cef-8b1b-ef78a963977f.mp4
 
 
 Demonstration of all Tag requests:
 
-[]()
-
+https://user-images.githubusercontent.com/59946423/162133542-54231021-e949-441c-b41d-e90cd9ccac70.mp4
 
 
 ## [Questions](#questions)
